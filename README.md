@@ -1,10 +1,10 @@
 # Meal Selector
 
-A short description about the project and/or client.
+This is just a random meal selector when you are bored.
 
 ## Usage
 
-A few examples of useful commands and/or tasks.
+Open index.html adn press the button :D
 
 ```
 $ First example
